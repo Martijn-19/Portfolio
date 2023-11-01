@@ -6,12 +6,11 @@
 
 ### Table of Contents
 
-- Introduction
-- [[Individual Project front-end](https://github.com/NuanceDevs/frontend)]
-- [[Individual Project back-end](https://github.com/orgs/NuanceDevs/repositories)]
-- [[Group Project back-end](https://github.com/MSchreijen/Fellenoord-leffecircuit)]
-- [[Group Project front-end](https://github.com/RicoCelsius/Fellenoord-front-end)]
-- [[Proof of Learning Outcomes](https://github.com/Martijn-19/Portfolio/tree/AD-S3)]
+> [[Individual Project front-end](https://github.com/NuanceDevs/frontend)]
+> [[Individual Project back-end](https://github.com/orgs/NuanceDevs/repositories)]
+> [[Group Project back-end](https://github.com/MSchreijen/Fellenoord-leffecircuit)]
+> [[Group Project front-end](https://github.com/RicoCelsius/Fellenoord-front-end)]
+> [[Proof of Learning Outcomes](https://github.com/Martijn-19/Portfolio/tree/AD-S3)]
 
 
 ### Intro
